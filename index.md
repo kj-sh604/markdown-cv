@@ -21,13 +21,14 @@ A competent and passionate individual in the field of technology, programming, a
 
 + Email: [aedriel.javier@gmail.com](mailto:aedriel.javier@gmail.com)
 + Github: [https://github.com/blistakanjo604](https://github.com/blistakanjo604)
++ Phone: [+1 (614) 973-0465](https://t.me/kylejavier431) (Links to Telegram)
 
 ## Education
 
 + B.S., Computer Science - Software Development. The Ohio State University. 2022--
 + A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
-+ Exchange Program, Yokohama Salesio Gakuin High School, Japan. 2017.
 + College Credits, Software Technologies. De La Salle University, Philippines. 2018.
++ Exchange Program, Yokohama Salesio Gakuin High School, Japan. 2017.
 + HS Diploma, Caritas Don Bosco School, Philippines. 2014-2018.
 
 # Experience
