@@ -61,7 +61,7 @@ html {
 
 body {
 	border-radius: 20px;
-	font-family: "Open Sans",sans-serif;
+	font-family: "Public Sans","Open Sans","Manrope","Muli","Sweet Sans","Roboto","Oswald","Slabo","Nunito","Space Grotest",sans-serif;
 	font-size: 12px;
 	line-height: 1.7;
 	padding: .125em 1em 0.5em 1em;
@@ -132,6 +132,7 @@ h1 {
 h1:after {
 	content: " ";
 	display: block;
+	margin-top: 12px;
 	border: 1px solid white;
 }
 
