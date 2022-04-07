@@ -33,21 +33,20 @@ A competent and passionate individual in the field of technology, programming, a
 
 # Experience
 
-On the HTML version, scroll over a class for teaching evaluations, if available.
-
 ## United States
 
-#### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
+##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
 
-+ Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transaction from beginning and end of shift; answered customers’ query/questions adequately and appropriately.
++ Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning and end of shift; answered customers’ query/questions adequately and appropriately.
 
 ## Philippines
 
-#### Data Entry and I.T. Support | KOS Tech I.T. Services | (January 2017 - December 2018)
+
+##### Data Entry and I.T. Support | KOS Tech I.T. Services | (January 2017 - December 2018)
 
 + Provided I.T. Services including but not limited to: operating system installation, computer tune-up, virus/spyware removal, software installation, data recovery and backup, data entry and transcription, and custom solutions for home users and businesses using open source technologies
 
-#### Head Cashier | Seol Bang Dessert Cafe | (December 2016 – January 2017)
+##### Head Cashier | Seol Bang Dessert Cafe | (December 2016 – January 2017)
 + Performed cashier duties and all opening & closing data entry procedures including inventory, cash management, and other related subsets.
 
 # Achievements
@@ -61,7 +60,6 @@ On the HTML version, scroll over a class for teaching evaluations, if available.
 + Represented the Philippines in the World Robot Games 2016 | Bandung, Indonesia
 + Gold Medal Awardee – National Robotics Competition 2017 | Philippines
 + Silver Medal Awardee – National Robotics Competition 2018 | Philippines
-+ Best Performing Taco Bell Store for Q1 and Q4 of 2019 | Columbus, Ohio
 
 ## References
 
@@ -93,6 +91,8 @@ Python, Perl, R, PHP, Matlab/GNU Octave, bash/shell, some superficial knowledge 
 TODO
 
 ### Usual Workflow
+
+TODO
 
 I use a **vim**-based setup in a tiling window manager (**awesomewm**). I compile documents using **R Markdown** or **LaTeX**, and **biber** for references.
 I prefer multimedia manipulation in the terminal with tools like **imagemagick** and **ffmpeg** for extensibilitiy's sake.
