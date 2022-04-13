@@ -84,7 +84,7 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 + Various Linux Themes for Select Components (CSS, LaTeX, & Lua)
 : Contributed numerous GTK+ themes to the Linux community. This includes but are not limited to: [xfce4 adwaita notifications](https://github.com/blistakanjo604/xfce4-notifyd-adwaita-alt) , [adw-gtk3-3584e4](https://github.com/blistakanjo604/adw-gtk3-dark-3584e4) , [LaTeX Beamer Theme: vide](https://github.com/blistakanjo604/beamercolortheme-vide) , and [awesomewm vide theme](https://github.com/blistakanjo604/awesomewm-vide_theme)
 
-+ Minimimal Payment Site (Proof of Concept) [GitHub](https://github.com/blistakanjo604/yugto-payment-site)
++ Minimal Payment Site (Proof of Concept) [GitHub](https://github.com/blistakanjo604/yugto-payment-site)
 : A proof of concept for a site that has responsive web design and dark mode awareness, while staying under 5 kilobytes.
 
 ## Tools I Use
