@@ -40,7 +40,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 ##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
 
-+ Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning and end of shift; answered customers’ query/questions adequately and appropriately.
++ Supervised and trained a diverse set of individuals to create a cohesive team environment. Handled all necessary paperwork, debugged computer and network issues in the restaurant. Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning to end of shift; answered customers’ query/questions adequately and appropriately.
 
 ## Philippines
 
