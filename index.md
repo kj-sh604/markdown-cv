@@ -3,8 +3,8 @@ title: Aedriel Kyle Javier
 linkcolor: blue
 pdf-engine: xelatex
 header-includes:
- - \usepackage[margin=.5in]{geometry}
-classoption: "11pt"
+ - \usepackage[margin=.23in]{geometry}
+classoption: "9pt"
 ---
 
 # Summary
@@ -61,12 +61,10 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 
 ## Human
 
-+ English
-: &nbsp;
-+ Filipino
-: and some of its dialects namely, Tagalog, Batangueño, and Cebuano
-+ Currently Learning
-: Latin and Greek
++ English (Fluent)
+: has the ability to write documents, present, and convey thoughts naturally in the language.
++ Filipino (Proficient)
+: highly proficient in the language and is familiar with some dialects namely: Tagalog, Batangueño, and Cebuano.
 
 # Computing
 
@@ -92,37 +90,34 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 
 #### Usual Workflow
 
-I mostly use a **Linux**-based setup in a tiling window manager (**awesomewm**). I compile documents using **LaTeX** and **biber** for references.
-Familiar with multimedia manipulation in the terminal with tools like **imagemagick** and **ffmpeg**. I have used Microsoft Windows, Mac OS X and GNU/Linux systems (both Debian and Arch-based varieties, as well as some experience with Gentoo).
+I mostly use a **Linux**-based setup in a tiling window manager (**awesomewm**). I am passionate about web access in third-world countries (wherein bandwidth is limited), this is why I prefer to develop and deploy useful yet minimal websites. I am comfortable with a terminal and I utilize tools like **vim**, **ssh**, and **ffmpeg**. I have used Microsoft Windows, Mac OS X and GNU/Linux systems (both Debian and Arch-based varieties, as well as some experience with Fedora).
 
 #### Programs I'm familiar with.
 
-GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh and vim using HTML/CSS/PHP; Document Processors like Microsoft Office, LibreOffice, LaTeX, groff/troff, and biber. Has some basic knowledge on Database Systems like MySQL and MS-SQL.
+GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh and vim using HTML/CSS/PHP; Document Processors & typesetters like Microsoft Office, LibreOffice, and LaTeX. Has some basic knowledge on Database Systems like MySQL and MS-SQL.
 
 # Achievements
 
 ## High School
 
-+ ¹Best Research Study Report Award with Citation for Advanced Robotics – International Robot High School 2017 | Japan
-+ School Representative – Exchange Student Program in Yokohama Salesio Gakuin High School 2017 | Japan
-+ ²Graduated Class of 2018 with High Honors (Magna Cum Laude) | Philippines
-+ Appointed Speaker for Creative Robotics 2016 – University of the Philippines | Los Baños, Philippines
-+ Represented the Philippines in the World Robot Games 2016 | Bandung, Indonesia
-+ Gold Medal Awardee – National Robotics Competition 2017 | Philippines
-+ Silver Medal Awardee – National Robotics Competition 2018 | Philippines
++ ¹Best Research Study Report Award with Citation for Advanced Robotics - International Robot High School 2017 | Japan
++ School Representative - Exchange Student Program in Yokohama Salesio Gakuin High School 2017 | Japan
++ Graduated Class of 2018 with [High Honors (Magna Cum Laude)](https://aedrielkylejavier.me/highhonors.jpg) | Philippines
++ Represented the Philippines in the [World Robot Games 2016](https://aedrielkylejavier.me/wrg2016.jpg) | Bandung, Indonesia
++ [Gold Medal Awardee](https://aedrielkylejavier.me/nrc2017.jpg) - National Robotics Competition 2017 | Philippines
++ [Silver Medal Awardee](https://aedrielkylejavier.me/nrc2018.jpg) - National Robotics Competition 2018 | Philippines
 
-## References
+## Related
 
 1. Report of 3rd International Robotics Forum for High School Students (IRH 2017)｜日本ロボット学会 - The Robotics Society of Japan. 日本ロボット学会 - The Robotics Society of Japan. (2017). [www.rsj.or.jp](https://www.rsj.or.jp/en/event/irh/irh2017/report.html)
 
 # Service
 
 + The Initiative Philippines - Website Deployment
-: Assisted in the deployment of The Initiative Phillippines [Website](https://theinitiativeph.org). Managed file syncing, working with Apache, and getting SSL Certificates working on the site. Project is hosted on an Ubuntu 20.04 VPS and utilizes different technologies like nodeJS, Apache, and MongoDB.  
-
+: Assisted in the deployment of The Initiative Phillippines [website](https://theinitiativeph.org). Managed file syncing, working with Apache, and getting SSL Certificates working on the site. Project is hosted on an Ubuntu 20.04 VPS and utilizes different technologies like nodeJS, Apache, and MongoDB.  
 
 + STEER - Street Engineers Robotics
 : Co-hosted a robotics outreach boot-camp in elementary schools in the Philippines that do not have (or have limited) access to technologies such as computers, robots, and other devices. Alongside Julian Raymond Yu from British School Manila, we held events that teaches children the fundamentals of Programming with tools such as Scratch, Lego Mindstorms, and Arduino. The children experienced programming their own robot and competing in a miniature "sumo-bot" competition. A snippet of one of the events in Timoteo Paez Elementary School can be found on [YouTube](https://youtu.be/9rMGKcI5QoU).
 
 + International Robot High School Forum 2017 (2nd Speaker) | Japan
-: Presented our High School's Study at the International Robot High School Forum in Japan. Represented the Philippines in the forum alongside a team of researchers. Study involved interviewing participants in the International Robot Expo to give qualitative definition of "Advanced Robotics". Our Presentation can be found at this [Youtube Link](https://youtu.be/9oYKfiaQe78).
+: Presented our High School's Study at the International Robot High School Forum in Japan. Represented the Philippines in the forum alongside a team of researchers. Study involved interviewing participants in the International Robot Expo to give qualitative definition of "Advanced Robotics". Our Presentation can be found at this [Youtube link](https://youtu.be/9oYKfiaQe78).
