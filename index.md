@@ -26,7 +26,7 @@ A competent and passionate individual in the field of technology, programming, a
 # Education
 
 + B.S., Computer Science - Software Development. Franklin University. 2022--Present
-+ A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
++ A.A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
 + College Credits, Software Technologies. De La Salle University, Philippines. 2018.
 + Exchange Program. Yokohama Salesio Gakuin High School, Japan. 2017.
 + HS Diploma. Caritas Don Bosco School, Philippines. 2014-2018.
@@ -76,7 +76,7 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 : Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.
 
 + procrastislides.com [Website](https://procrastislides.com/)
-: A website that outputs a complete slideshow presentation just based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
+: A website that outputs a complete slideshow presentation based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
 
 + Collection of GNU/Linux "dotfiles" for Desktop PCs and Laptops. [Github](https://github.com/blistakanjo604).
 : A series of configuration files that contain full-featured vim, awesome-window-manager set-up, and many other settings. Repository contains personal knowledge-base on managing & configuring Linux systems.
@@ -125,4 +125,4 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 : Co-hosted a robotics outreach boot-camp in elementary schools in the Philippines that do not have (or have limited) access to technologies such as computers, robots, and other devices. Alongside Julian Raymond Yu from British School Manila, we held events that teaches children the fundamentals of Programming with tools such as Scratch, Lego Mindstorms, and Arduino. The children experienced programming their own robot and competing in a miniature "sumo-bot" competition. A snippet of one of the events in Timoteo Paez Elementary School can be found on [YouTube](https://youtu.be/9rMGKcI5QoU).
 
 + International Robot High School Forum 2017 (2nd Speaker) | Japan
-: Presented our High School's Study at the International Robot High School Forum in Japan. Represented the Philippines in this forum alongside a team of researchers. Study involved interviewing participants in the International Robot Expo to give qualitative definition of "Advanced Robotics". Our Presentation can be found at this [Youtube Link](https://youtu.be/9oYKfiaQe78).
+: Presented our High School's Study at the International Robot High School Forum in Japan. Represented the Philippines in the forum alongside a team of researchers. Study involved interviewing participants in the International Robot Expo to give qualitative definition of "Advanced Robotics". Our Presentation can be found at this [Youtube Link](https://youtu.be/9oYKfiaQe78).
