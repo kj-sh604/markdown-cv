@@ -11,7 +11,10 @@ nav {
 
 nav ul {
   padding: 0;
-  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 80px;
 }
 
 nav a {
@@ -73,7 +76,7 @@ body {
 }
 
 a {
-  color: teal;
+  color: #2560A9;
 }
 
 a:hover {
@@ -236,7 +239,7 @@ dl {
 }
 
 dd {
-  font-size: small;
+  font-size: medium;
 }
 
 dl dd:last-of-type {
