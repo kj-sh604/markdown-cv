@@ -1,87 +1,86 @@
 /* Do not show subsubsections in menu: */
-
-nav li li li {display: none !important; }
+nav li li li {
+  display: none !important;
+}
 
 nav {
-	display: inline-block;
-    	text-align:center;
-	margin: 0px auto;
+  display: inline-block;
+  text-align: center;
+  margin: 0px auto;
 }
 
 nav ul {
-	padding: 0;
-	margin: 0 auto;
+  padding: 0;
+  margin: 0 auto;
 }
 
 nav a {
-	padding: 10px;
-	background: #111;
-	border-radius: 20px;
+  padding: 10px;
+  background: #111;
+  border-radius: 20px;
 }
 
 nav li {
-	list-style: none;
-	position: relative;
-	float: left;
+  list-style: none;
+  position: relative;
+  float: left;
 }
 
 nav a {
-	display: block;
-	width: 100px;
+  display: block;
+  width: 100px;
 }
 
 nav ul ul {
-	padding: 0px;
-	margin: 0px;
-	position: absolute;
-	display: none;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  display: none;
 }
 
 nav li:hover ul {
-	display: block;
+  display: block;
 }
 
 nav li:hover a {
-	background-color: #222;
+  background-color: #222;
 }
 
 nav li:hover a:hover {
-	background-color: #333;
+  background-color: #333;
 }
 
 html {
-	margin-top: 2.5em;
-	padding-bottom: 20em;
-	font-size: 100%;
-	overflow-y: scroll;
-	-webkit-text-size-adjust: 100%;
-	-ms-text-size-adjust: 100%;
+  margin-top: 2.5em;
+  padding-bottom: 20em;
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
-
 body {
-	border-radius: 20px;
-	font-family: "Public Sans","Open Sans","Manrope","Muli","Sweet Sans","Roboto","Oswald","Slabo","Nunito","Space Grotest",sans-serif;
-	font-size: 12px;
-	line-height: 1.7;
-	padding: .125em 1em 0.5em 1em;
-	margin: auto;
-	width: 1000px;
-	font-size: 16px;
-	color: #ddd;
-	background: black;
+  border-radius: 20px;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 1.7;
+  padding: .125em 1em 0.5em 1em;
+  margin: auto;
+  width: 1000px;
+  font-size: 16px;
+  color: #ddd;
+  background: black;
 }
 
 a {
-color: teal;
+  color: teal;
 }
 
 a:hover {
   color: lightblue;
 }
 
-a:active {
-}
+a:active {}
 
 a:focus {
   outline: thin dotted;
@@ -121,19 +120,19 @@ h4, h5, h6 {
 }
 
 .title {
-	font-size: 3.5em;
-	text-align: center;
+  font-size: 3.5em;
+  text-align: center;
 }
 
 h1 {
-	font-size: xx-large;
+  font-size: xx-large;
 }
 
 h1:after {
-	content: " ";
-	display: block;
-	margin-top: 12px;
-	border: 1px solid white;
+  content: " ";
+  display: block;
+  margin-top: 12px;
+  border: 1px solid white;
 }
 
 h2 {
@@ -232,18 +231,18 @@ ul ul, ol ol {
 }
 
 dl {
-	padding: 0px;
-	margin: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 
 dd {
-  	font-size: small;
+  font-size: small;
 }
 
 dl dd:last-of-type {
-	display: none;
+  display: none;
 }
 
 dl:hover dd:last-of-type {
-	display: block;
+  display: block;
 }
