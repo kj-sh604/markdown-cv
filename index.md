@@ -26,7 +26,7 @@ A competent and passionate individual in the field of technology, programming, a
 # Education
 
 + B.S., Computer Science - Software Development. Franklin University. 2022--Present
-+ A.A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
++ A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
 + College Credits, Software Technologies. De La Salle University, Philippines. 2018.
 + Exchange Program. Yokohama Salesio Gakuin High School, Japan. 2017.
 + HS Diploma. Caritas Don Bosco School, Philippines. 2014-2018.
