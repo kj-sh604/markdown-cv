@@ -26,7 +26,7 @@ A competent and passionate individual in the field of technology, programming, a
 # Education
 
 + B.S., Computer Science - Software Development. Franklin University. 2022--Present
-+ A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
++ A.A.S., Computer Science - Software Development. Columbus State Community College. 2019-2021.
 + College Credits, Software Technologies. De La Salle University, Philippines. 2018.
 + Exchange Program. Yokohama Salesio Gakuin High School, Japan. 2017.
 + HS Diploma. Caritas Don Bosco School, Philippines. 2014-2018.
@@ -36,7 +36,7 @@ A competent and passionate individual in the field of technology, programming, a
 ## United States
 
 ##### Capstone Project | Columbus State Community College | Columbus, Ohio (August 2021 - December 2021)
-+ Took part in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
++ Participated in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
 
 ##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
 
