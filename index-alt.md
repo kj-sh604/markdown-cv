@@ -13,14 +13,14 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
-+ I manage and own the website [procrastislides.com](https://procrastislides.com/)
++ I manage and own the website [procrastislides.com](https://procrastislides.com/) on top of a LAMP (Linux, Apache, MySQL, PHP) stack
 + I am currently pursuing my Bachelor's Degree at Franklin University
 + I have attained my Associate's Degree at Columbus State Community College
 
 ## Contact
 
 + Email: [aedriel.javier@gmail.com](mailto:aedriel.javier@gmail.com)
-+ Github: [https://github.com/blistakanjo604](https://github.com/blistakanjo604)
++ Github: [github.com/blistakanjo604](https://github.com/blistakanjo604)
 + Phone: [+1 (614) 973-0465](https://t.me/kylejavier431) (Telegram)
 
 # Education
@@ -78,7 +78,7 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 # Experience
 
 ##### Capstone Project | Columbus State Community College | Columbus, Ohio (August 2021 - December 2021)
-+ Took part in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
++ Took part in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
 
 ##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
 

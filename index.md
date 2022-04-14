@@ -20,7 +20,7 @@ A competent and passionate individual in the field of technology, programming, a
 ## Contact
 
 + Email: [aedriel.javier@gmail.com](mailto:aedriel.javier@gmail.com)
-+ Github: [https://github.com/blistakanjo604](https://github.com/blistakanjo604)
++ Github: [github.com/blistakanjo604](https://github.com/blistakanjo604)
 + Phone: [+1 (614) 973-0465](https://t.me/kylejavier431) (Telegram)
 
 # Education
@@ -68,6 +68,8 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 
 # Computing
 
+On the HTML version, scroll over for a summary.
+
 ## Code
 
 + Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
@@ -112,6 +114,8 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 1. Report of 3rd International Robotics Forum for High School Students (IRH 2017)｜日本ロボット学会 - The Robotics Society of Japan. 日本ロボット学会 - The Robotics Society of Japan. (2017). [www.rsj.or.jp](https://www.rsj.or.jp/en/event/irh/irh2017/report.html)
 
 # Service
+
+On the HTML version, scroll over for a summary.
 
 + The Initiative Philippines - Website Deployment
 : Assisted in the deployment of The Initiative Phillippines [website](https://theinitiativeph.org). Managed file syncing, working with Apache, and getting SSL Certificates working on the site. Project is hosted on an Ubuntu 20.04 VPS and utilizes different technologies like nodeJS, Apache, and MongoDB.  
