@@ -13,6 +13,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
++ I host my own searx instance (privacy-respecting search engine) at [justsearx.xyz](https://justsearx.xyz/)
 + I manage and own the website [procrastislides.com](https://procrastislides.com/)
 + I am currently pursuing my Bachelor's Degree at Franklin University
 + I have attained my Associate's Degree at Columbus State Community College
@@ -71,6 +72,9 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 On the HTML version, scroll over for a summary.
 
 ## Code
+
++ justsearx.xyz [Search Engine](https://justsearx.xyz/)
+: Deployed a self-hosted searx instance (privacy-respecting metasearh engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
 
 + Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
 : Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.

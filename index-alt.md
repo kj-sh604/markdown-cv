@@ -49,11 +49,14 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 
 ## Code
 
-+ Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
-: Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.
++ justsearx.xyz [Search Engine](https://justsearx.xyz/)
+: Deployed a self-hosted searx instance (privacy-respecting metasearh engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
 
 + procrastislides.com [Website](https://procrastislides.com/)
 : A website that outputs a complete slideshow presentation based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
+
++ Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
+: Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.
 
 + Collection of GNU/Linux "dotfiles" for Desktop PCs and Laptops. [Github](https://github.com/blistakanjo604).
 : A series of configuration files that contain full-featured vim, awesome-window-manager set-up, and many other settings. Repository contains personal knowledge-base on managing & configuring Linux systems.
@@ -61,8 +64,6 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 + Various Linux Themes for Select Components (CSS, LaTeX, & Lua)
 : Contributed numerous GTK+ themes to the Linux community. This includes but are not limited to: [xfce4 adwaita notifications](https://github.com/blistakanjo604/xfce4-notifyd-adwaita-alt) , [adw-gtk3-3584e4](https://github.com/blistakanjo604/adw-gtk3-dark-3584e4) , [LaTeX Beamer Theme: vide](https://github.com/blistakanjo604/beamercolortheme-vide) , and [awesomewm vide theme](https://github.com/blistakanjo604/awesomewm-vide_theme)
 
-+ Minimal Payment Site (Proof of Concept) [GitHub](https://github.com/blistakanjo604/yugto-payment-site)
-: A proof of concept for a site that has responsive web design and dark mode awareness, while staying under 5 kilobytes.
 
 ## Tools I Use
 
