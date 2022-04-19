@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 /* Do not show subsubsections in menu: */
 nav li li li {
   display: none !important;
@@ -64,7 +67,7 @@ html {
 
 body {
   border-radius: 20px;
-  font-family: sans-serif;
+  font-family: "Open Sans", "Roboto", sans-serif;
   font-size: 12px;
   line-height: 1.7;
   padding: .125em 1em 0.5em 1em;
