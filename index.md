@@ -74,7 +74,7 @@ On the HTML version, scroll over for a summary.
 ## Code
 
 + justsearx.xyz [Search Engine](https://justsearx.xyz/)
-: Deployed a self-hosted searx instance (privacy-respecting metasearh engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
+: Deployed a self-hosted searx instance (privacy-respecting metasearch engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
 
 + Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
 : Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.

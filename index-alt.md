@@ -50,7 +50,7 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 ## Code
 
 + justsearx.xyz [Search Engine](https://justsearx.xyz/)
-: Deployed a self-hosted searx instance (privacy-respecting metasearh engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
+: Deployed a self-hosted searx instance (privacy-respecting metasearch engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
 
 + procrastislides.com [Website](https://procrastislides.com/)
 : A website that outputs a complete slideshow presentation based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
