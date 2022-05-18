@@ -108,10 +108,10 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 
 + ¹Best Research Study Report Award with Citation for Advanced Robotics - International Robot High School 2017 | Japan
 + School Representative - Exchange Student Program in Yokohama Salesio Gakuin High School 2017 | Japan
-+ Graduated Class of 2018 with [High Honors (Magna Cum Laude)](https://aedrielkylejavier.me/highhonors.jpg) | Philippines
-+ Represented the Philippines in the [World Robot Games 2016](https://aedrielkylejavier.me/wrg2016.jpg) | Bandung, Indonesia
-+ [Gold Medal Awardee](https://aedrielkylejavier.me/nrc2017.jpg) - National Robotics Competition 2017 | Philippines
-+ [Silver Medal Awardee](https://aedrielkylejavier.me/nrc2018.jpg) - National Robotics Competition 2018 | Philippines
++ Graduated Class of 2018 with [High Honors (Magna Cum Laude)](https://aedrielkylejavier.me/assets/highhonors.jpg) | Philippines
++ Represented the Philippines in the [World Robot Games 2016](https://aedrielkylejavier.me/assets/wrg2016.jpg) | Bandung, Indonesia
++ [Gold Medal Awardee](https://aedrielkylejavier.me/assets/nrc2017.jpg) - National Robotics Competition 2017 | Philippines
++ [Silver Medal Awardee](https://aedrielkylejavier.me/assets/nrc2018.jpg) - National Robotics Competition 2018 | Philippines
 
 ## Related
 
