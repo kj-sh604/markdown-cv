@@ -13,6 +13,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
++ Integrations Engineer at BillGO Inc.
 + I host my own searx instance (privacy-respecting search engine) at [justsearx.xyz](https://justsearx.xyz/)
 + I manage and own the website [procrastislides.com](https://procrastislides.com/)
 + I am currently pursuing my Bachelor's Degree at Franklin University
@@ -36,10 +37,13 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## United States
 
+##### Integrations Engineer | BillGO Inc. | Gahanna, Ohio (June 2022 - Present)
+Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
+
 ##### Capstone Project | Columbus State Community College | Columbus, Ohio (August 2021 - December 2021)
 + Participated in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
 
-##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
+##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2019 - Present)
 
 + Supervised and trained a diverse set of individuals to create a cohesive team environment. Handled all necessary paperwork, debugged computer and network issues in the restaurant. Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning to end of shift; answered customers’ query/questions adequately and appropriately.
 

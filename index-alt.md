@@ -13,9 +13,9 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
++ Integrations Engineer at BillGO Inc.
 + I manage and own the website [procrastislides.com](https://procrastislides.com/) on top of a LAMP (Linux, Apache, MySQL, PHP) stack
 + I am currently pursuing my Bachelor's Degree at Franklin University
-+ I have attained my Associate's Degree at Columbus State Community College
 
 ## Contact
 
@@ -78,11 +78,10 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 
 # Experience
 
-##### Capstone Project | Columbus State Community College | Columbus, Ohio (August 2021 - December 2021)
-+ Participated in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
+##### Integrations Engineer | BillGO Inc. | Gahanna, Ohio (June 2022 - Present)
+Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
 
-##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2018 - Present)
-
+##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2019 - May 2022)
 + Supervised and trained a diverse set of individuals to create a cohesive team environment. Handled all necessary paperwork, debugged computer and network issues in the restaurant. Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning to end of shift; answered customers’ query/questions adequately and appropriately.
 
 ##### I.T. Support | KOS Tech I.T. Services | Manila, Philippines (January 2017 - December 2018)
