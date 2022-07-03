@@ -79,7 +79,7 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 # Experience
 
 ##### Integrations Engineer | BillGO Inc. | Gahanna, Ohio (June 2022 - Present)
-Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
++ Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
 
 ##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2019 - May 2022)
 + Supervised and trained a diverse set of individuals to create a cohesive team environment. Handled all necessary paperwork, debugged computer and network issues in the restaurant. Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning to end of shift; answered customers’ query/questions adequately and appropriately.

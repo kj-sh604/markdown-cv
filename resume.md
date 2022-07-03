@@ -38,7 +38,7 @@ A competent and passionate individual in the field of technology, programming, a
 ## United States
 
 ##### Integrations Engineer | BillGO Inc. | Gahanna, Ohio (June 2022 - Present)
-Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
++ Contributes to the realization of BillGO's vision to become America's Bill Pay Platform. Works in a fast-paced collaborative environment to facilitate a better financial future for everyone by combining the power of speed, choice and intelligence.
 
 ##### Capstone Project | Columbus State Community College | Columbus, Ohio (August 2021 - December 2021)
 + Participated in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/blistakanjo604/loveyoualatte-yellow-site).
