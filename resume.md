@@ -13,7 +13,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
-+ Integrations Engineer at BillGO Inc.
++ Integrations Engineer at [BillGO Inc.](https://www.billgo.com/)
 + I host my own searx instance (privacy-respecting search engine) at [justsearx.xyz](https://justsearx.xyz/)
 + I manage and own the website [procrastislides.com](https://procrastislides.com/)
 + I am currently pursuing my Bachelor's Degree at Franklin University

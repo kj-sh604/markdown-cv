@@ -13,7 +13,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 ## Overview
 
-+ Integrations Engineer at BillGO Inc.
++ Integrations Engineer at [BillGO Inc.](https://www.billgo.com/)
 + I manage and own the website [procrastislides.com](https://procrastislides.com/) on top of a LAMP (Linux, Apache, MySQL, PHP) stack
 + I am currently pursuing my Bachelor's Degree at Franklin University
 
