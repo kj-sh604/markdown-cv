@@ -20,7 +20,7 @@ A competent and passionate individual in the field of technology, programming, a
 ## Contact
 
 + Email: [aedriel.javier@gmail.com](mailto:aedriel.javier@gmail.com)
-+ Github: [github.com/blistakanjo604](https://github.com/blistakanjo604)
++ Github: [github.com/kj-sh604](https://github.com/kj-sh604)
 + Phone: [+1 (614) 973-0465](https://t.me/kylejavier431) (Telegram)
 
 # Education
@@ -55,14 +55,14 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 + procrastislides.com [Website](https://procrastislides.com/)
 : A website that outputs a complete slideshow presentation based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
 
-+ Markdown-CV [GitHub](https://github.com/blistakanjo604/markdown-cv)
++ Markdown-CV [GitHub](https://github.com/kj-sh604/markdown-cv)
 : Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.
 
-+ Collection of GNU/Linux "dotfiles" for Desktop PCs and Laptops. [Github](https://github.com/blistakanjo604).
++ Collection of GNU/Linux "dotfiles" for Desktop PCs and Laptops. [Github](https://github.com/kj-sh604).
 : A series of configuration files that contain full-featured vim, awesome-window-manager set-up, and many other settings. Repository contains personal knowledge-base on managing & configuring Linux systems.
 
 + Various Linux Themes for Select Components (CSS, LaTeX, & Lua)
-: Contributed numerous GTK+ themes to the Linux community. This includes but are not limited to: [xfce4 adwaita notifications](https://github.com/blistakanjo604/xfce4-notifyd-adwaita-alt) , [adw-gtk3-3584e4](https://github.com/blistakanjo604/adw-gtk3-dark-3584e4) , [LaTeX Beamer Theme: vide](https://github.com/blistakanjo604/beamercolortheme-vide) , and [awesomewm vide theme](https://github.com/blistakanjo604/awesomewm-vide_theme)
+: Contributed numerous GTK+ themes to the Linux community. This includes but are not limited to: [xfce4 adwaita notifications](https://github.com/kj-sh604/xfce4-notifyd-adwaita-alt) , [adw-gtk3-3584e4](https://github.com/kj-sh604/adw-gtk3-dark-3584e4) , [LaTeX Beamer Theme: vide](https://github.com/kj-sh604/beamercolortheme-vide) , and [awesomewm vide theme](https://github.com/kj-sh604/awesomewm-vide_theme)
 
 
 ## Tools I Use
