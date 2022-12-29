@@ -74,7 +74,7 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 
 # Computing
 
-On the HTML version, scroll over for a summary.
+On the HTML version, scroll over or tap for a summary.
 
 ## Code
 
@@ -123,7 +123,7 @@ GNU/Linux, ssh, Audacity, GIMP, pandoc, vim; Managed websites manually via ssh a
 
 # Service
 
-On the HTML version, scroll over for a summary.
+On the HTML version, scroll over or tap for a summary.
 
 + The Initiative Philippines - Website Deployment
   : Assisted in the deployment of The Initiative Phillippines [website](https://theinitiativeph.org). Managed file syncing, working with Apache, and getting SSL Certificates working on the site. Project is hosted on an Ubuntu 20.04 VPS and utilizes different technologies like nodeJS, Apache, and MongoDB.  
