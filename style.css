@@ -7,7 +7,9 @@ nav li li li {
 }
 
 nav {
-  display: inline-block;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   margin: 0px auto;
 }
@@ -29,7 +31,7 @@ nav a {
 nav li {
   list-style: none;
   position: relative;
-  float: left;
+  display: inline-flex;
 }
 
 nav a {
@@ -287,12 +289,6 @@ nav a {
   background: #111;
   border-radius: 20px;
 }
-
-nav li {
-  position: relative;
-  float: center;
-}
-
 
 nav ul ul {
   padding: 0px;
