@@ -45,7 +45,7 @@ A competent and passionate individual in the field of technology, programming, a
 
 + Participated in a business simulation course to attain Associate's Degree. Designed and implemented a website based on customer requirements and feedback with the use of Agile Methodologies. Managed a LAMP (Linux, Apache, MySQL, PHP) stack on Amazon Web Services and developed a functional website with HTML, CSS (Bootstrap), Javascript, and other web technologies. Final output of the course is accessible on [GitHub](https://github.com/kj-sh604/loveyoualatte-yellow-site).
 
-##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2019 - Present)
+##### Shift Lead | Taco Bell Restaurants | Columbus, Ohio (March 2019 - May 2022)
 
 + Supervised and trained a diverse set of individuals to create a cohesive team environment. Handled all necessary paperwork, debugged computer and network issues in the restaurant. Processed orders, completed transactions, handled money in all forms responsibly and accurately on point of sale; accounted and balanced all cash, checks, and credit card transactions from beginning to end of shift; answered customers’ query/questions adequately and appropriately.
 
