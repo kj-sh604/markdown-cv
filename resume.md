@@ -79,7 +79,7 @@ On the HTML version, scroll over or tap the list-item for a summary.
 ## Code
 
 + justsearx.xyz [Search Engine](https://justsearx.xyz/)
-  : Deployed a self-hosted searx instance (privacy-respecting metasearch engine) on a VPS. Gained some superficial knowledge on python as files needed to be modified to work with the python version that shipped with Ubuntu 20.04.
+: Deployed a self-hosted searx instance. [justsearx.xyz](https://justsearx.xyz/) is an open-source, privacy-respecting metasearch engine that combines results from other domains and presents them in a single list. Users' search queries and their IP addresses are not logged. Instead, the search query is distributed to a number of different search engines and the results are returned to the user, aggregated and ranked by relevance. This allows users to search the web using multiple search engines at once, while still maintaining their privacy.
 
 + Markdown-CV [GitHub](https://github.com/kj-sh604/markdown-cv)
   : Creates a HTML version and PDF of a résumé/CV derived from a single markdown file. Output is created from the use of open-source tools such as pandoc and LaTeX.
