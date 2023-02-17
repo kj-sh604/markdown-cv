@@ -50,7 +50,7 @@ HTML, CSS, Javascript, PHP, some superficial knowledge of C, Java, bash, and oth
 ## Code
 
 + justsearx.xyz [Search Engine](https://justsearx.xyz/)
-: Deployed a self-hosted searx instance. [justsearx.xyz](https://justsearx.xyz/) is an open-source, privacy-respecting metasearch engine that combines results from other domains and presents them in a single list. 
+: Successfully launched and maintained a self-hosted instance of Searx, an open-source, privacy-focused metasearch engine ([justsearx.xyz](https://justsearx.xyz/)). Implemented innovative solutions to aggregate results from various domains and present them in a unified, user-friendly format.
 
 + procrastislides.com [Website](https://procrastislides.com/)
 : A website that outputs a complete slideshow presentation based on the user's Markdown input. Includes an embedded editor along with a video tutorial for site visitors. The markdown to PDF conversion is done with the utilization of several GNU Core Utilities, pandoc, and LaTeX Beamer templates. This project is self-hosted on a VPS with the utilization of a LAMP Stack.
